@@ -6,7 +6,11 @@
   "version": "1.3.0",
   "command": {
     "publish": {
-      "ignoreChanges": ["*.md", "LICENSE", "*.test.ts"]
+      "ignoreChanges": [
+        "*.md",
+        "LICENSE",
+        "*.test.ts"
+      ]
     }
   }
 }
