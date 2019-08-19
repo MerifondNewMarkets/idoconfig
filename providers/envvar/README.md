@@ -1,6 +1,6 @@
 # Environment Variables Provider
 
-Read values from `process.env` and make them accessible through [`Configuration`](https://github.com/MerifondNewMarkets/i-do-config)
+Read values from `process.env` and make them accessible through [`Configuration`](https://github.com/MerifondNewMarkets/ido-config)
 
 [![Version npm](https://img.shields.io/npm/v/idoconfig-provider-envvar.svg?style=flat-square)](https://www.npmjs.com/package/idoconfig-provider-envvar)
 [![npm Downloads](https://img.shields.io/npm/dm/idoconfig-provider-envvar.svg?style=flat-square)](https://npmcharts.com/compare/idoconfig-provider-envvar?minimal=true)
@@ -41,7 +41,7 @@ I'm using [inversify.io](http://inversify.io/)
 
 ```typescript
 import Container from "inversify";
-import { Configuration, IConfiguration, IConfigurationValueProvider } from "i-do-config";
+import { Configuration, IConfiguration, IConfigurationValueProvider } from "idoconfig";
 import { EnvVarConfigurationValueProvider } from "idoconfig-provider-envvar";
 
 const di = new Container({ defaultScope: "Singleton" });

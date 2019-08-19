@@ -1,5 +1,5 @@
 
-import { IConfigurationValueProviderOptions } from "i-do-config";
+import { IConfigurationValueProviderOptions } from "idoconfig";
 
 export interface IFolderConfigurationValueProviderOptions extends IConfigurationValueProviderOptions {
     path?: string;

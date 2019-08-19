@@ -25,17 +25,5 @@
     "dist/",
     "src/",
     "test/"
-  ],
-  "devDependencies": {
-    "@types/chai": "^4.1.7",
-    "@types/mocha": "^5.2.5",
-    "@types/node": "^10.12.18",
-    "@typescript-eslint/eslint-plugin": "^1.11.0",
-    "@typescript-eslint/parser": "^1.11.0",
-    "chai": "^4.2.0",
-    "eslint": "^6.0.1",
-    "mocha": "^5.2.0",
-    "ts-node": "^7.0.1",
-    "typescript": "^3.2.2"
-  }
+  ]
 }

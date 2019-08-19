@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { Configuration } from "i-do-config";
+import { Configuration } from "idoconfig";
 import { describe, it } from "mocha";
 import { EnvVarConfigurationValueProvider } from "../src/environment-variable-provider";
 

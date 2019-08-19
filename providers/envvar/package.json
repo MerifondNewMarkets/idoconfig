@@ -1,7 +1,7 @@
 {
   "name": "idoconfig-provider-envvar",
   "version": "1.3.0",
-  "description": "Provider for i-do-config that reads values from environment variables.",
+  "description": "Provider for idoconfig that reads values from environment variables.",
   "repository": {
     "type": "git",
     "url": "https://github.com/MerifondNewMarkets/idoconfig-provider-envvar.git"
@@ -20,7 +20,7 @@
   "keywords": [
     "configuration",
     "config",
-    "i-do-config",
+    "idoconfig",
     "environment variables",
     "env",
     "env-var"
@@ -29,18 +29,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "i-do-config": "^1.2.0"
-  },
-  "devDependencies": {
-    "@types/chai": "^4.1.7",
-    "@types/mocha": "^5.2.5",
-    "@types/node": "^10.12.15",
-    "@typescript-eslint/eslint-plugin": "^1.11.0",
-    "@typescript-eslint/parser": "^1.11.0",
-    "chai": "^4.2.0",
-    "eslint": "^6.0.1",
-    "mocha": "^5.2.0",
-    "ts-node": "^7.0.1",
-    "typescript": "^3.2.2"
+    "idoconfig": "file:../../idoconfig"
   }
 }
