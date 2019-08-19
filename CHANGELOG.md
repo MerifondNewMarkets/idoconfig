@@ -26,12 +26,19 @@ Don't forget the date.
 
 ---
 
+## v1.3.0 - 2019-08-19
+
+This is a maintenance release. The main package was renamed from `i-do-config` to `idoconfig`. The code has been centralized in a (this) monorepo and is managed by [lerna.js](https://lerna.js.org/).
+
+---
+
 ## v1.2.2 - 2019-07-12
 
 ### Changed
 
 Remove the generic parameter from `getValue` method. Instead the method now only supports boolean, number or string values, as they are the most common primitive types.
 
+---
 
 ## v1.1.1 - 2019-01-07
 
