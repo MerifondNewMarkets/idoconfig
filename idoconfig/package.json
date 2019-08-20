@@ -1,6 +1,6 @@
 {
   "name": "@idoconfig/base",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Provide app configuration as key-value pairs from multiple providers. Inspired by ASP.net Core",
   "main": "dist/index",
   "types": "dist/index",
