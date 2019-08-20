@@ -8,6 +8,8 @@
     "publish": {
       "ignoreChanges": [
         "*.md",
+        "*.yml",
+        "*.yaml",
         "LICENSE",
         "*.test.ts"
       ]
