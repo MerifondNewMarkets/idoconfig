@@ -5,7 +5,14 @@ import { join, normalize, sep } from "path";
 import { FolderProviderOptions } from "./folder-provider-options";
 import { IFolderConfigurationValueProviderOptions } from "./interfaces/i-folder-provider-options";
 
-const SIZE_ONE_MB = 1024 * 1024;
+/**
+ * The size of one MegaByte (1024 * 1024 or 2^20)
+ */
+const SIZE_ONE_MB = 1048576;
+
+/**
+ * Limits the amount of files read from given folder
+ */
 const MAX_FILES = 100;
 
 /**
