@@ -5,11 +5,12 @@
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build": "npm run clean && npm run compile",
+    "clean": "rimraf dist/",
+    "compile": "tsc -p tsconfig.build.json",
     "lint": "eslint --ext ts src/ test/",
     "prepare": "npm run build",
-    "test": "mocha --require ts-node/register --reporter spec test/**/*.test.ts",
-    "tsc": "tsc"
+    "test": "mocha --require ts-node/register --reporter spec test/**/*.test.ts"
   },
   "keywords": [
     "configuration",

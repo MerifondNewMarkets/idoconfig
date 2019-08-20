@@ -1,17 +1,12 @@
 {
+  "extends": "./tsconfig.build.json",
+
   "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
-    "declaration": true,
-    "outDir": "./dist",
-    "sourceMap": true,
-    "esModuleInterop": true,
-    "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
-  },
-  "exclude": [
-    "dist",
-    "node_modules",
-    "test"
-  ]
+    "baseUrl": ".",
+    "paths": {
+      "idoconfig-provider-envvar": ["providers/envvar/src"],
+      "idoconfig-provider-folder": ["providers/folder/src"],
+      "idoconfig": ["idoconfig/src"]
+    }
+  }
 }

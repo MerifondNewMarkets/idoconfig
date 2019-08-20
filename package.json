@@ -1,6 +1,12 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist",
+    "clean": "lerna run clean",
+    "build": "lerna run build",
+    "pub": "lerna publish"
+  },
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
@@ -11,12 +17,8 @@
     "eslint": "^6.0.1",
     "lerna": "^3.16.4",
     "mocha": "^5.2.0",
+    "rimraf": "^3.0.0",
     "ts-node": "^7.0.1",
-    "typescript": "^3.2.4"
-  },
-  "dependencies": {
-    "idoconfig": "file:idoconfig",
-    "idoconfig-provider-envvar": "file:providers\\envvar",
-    "idoconfig-provider-folder": "file:providers\\folder"
+    "typescript": "^3.5.3"
   }
 }
