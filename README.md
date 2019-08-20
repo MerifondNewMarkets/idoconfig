@@ -1,5 +1,8 @@
 # idoconfig - what about you?
 
+[![Version npm](https://img.shields.io/npm/v/@idoconfig/base.svg)](https://www.npmjs.com/package/@idoconfig/base)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Build/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Tests/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 ---
