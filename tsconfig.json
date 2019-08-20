@@ -4,9 +4,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "idoconfig-provider-envvar": ["providers/envvar/src"],
-      "idoconfig-provider-folder": ["providers/folder/src"],
-      "idoconfig": ["idoconfig/src"]
+      "@idoconfig/*": ["idoconfig/src"],
+      "@idoconfig/provider-envvar": ["providers/envvar/src"],
+      "@idoconfig/provider-folder": ["providers/folder/src"]
     }
   }
 }

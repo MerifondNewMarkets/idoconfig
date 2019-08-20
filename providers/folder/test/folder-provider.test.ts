@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { Configuration } from "idoconfig";
+import { Configuration } from "@idoconfig/base";
 import { describe, it } from "mocha";
 import { FolderConfigurationValueProvider } from "../src/folder-provider";
 import { FolderProviderOptions } from "../src/folder-provider-options";

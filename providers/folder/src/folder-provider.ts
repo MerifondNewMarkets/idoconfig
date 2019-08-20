@@ -1,5 +1,5 @@
 import * as fs from "fs";
-import { ConfigurationProviderAbstract } from "idoconfig";
+import { ConfigurationProviderAbstract } from "@idoconfig/base";
 import { isBinaryFileSync } from "isbinaryfile";
 import { join, normalize, sep } from "path";
 import { FolderProviderOptions } from "./folder-provider-options";

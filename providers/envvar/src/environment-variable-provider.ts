@@ -1,5 +1,5 @@
 import * as dotenv from "dotenv";
-import { ConfigurationProviderAbstract, IConfigurationValueProviderOptions } from "idoconfig";
+import { ConfigurationProviderAbstract, IConfigurationValueProviderOptions } from "@idoconfig/base";
 
 dotenv.config();
 
