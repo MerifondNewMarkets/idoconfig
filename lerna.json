@@ -7,11 +7,11 @@
   "command": {
     "publish": {
       "ignoreChanges": [
-        "*.md",
-        "*.yml",
-        "*.yaml",
-        "LICENSE",
-        "*.test.ts"
+        "**/*.md",
+        "**/*.yml",
+        "**/*.yaml",
+        "**/LICENSE",
+        "**/*.test.ts"
       ]
     }
   }
