@@ -2,13 +2,13 @@
 
 Read values from `process.env` and make them accessible through [`Configuration`](https://github.com/MerifondNewMarkets/ido-config)
 
-[![Version npm](https://img.shields.io/npm/v/idoconfig-provider-envvar.svg?style=flat-square)](https://www.npmjs.com/package/idoconfig-provider-envvar)
-[![npm Downloads](https://img.shields.io/npm/dm/idoconfig-provider-envvar.svg?style=flat-square)](https://npmcharts.com/compare/idoconfig-provider-envvar?minimal=true)
-[![Build Status](https://img.shields.io/travis/MerifondNewMarkets/idoconfig-provider-envvar/master.svg?style=flat-square)](https://travis-ci.org/MerifondNewMarkets/idoconfig-provider-envvar)
-[![Dependencies](https://img.shields.io/david/MerifondNewMarkets/idoconfig-provider-envvar.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig-provider-envvar)
-[![Dev-Dependencies](https://img.shields.io/david/dev/MerifondNewMarkets/idoconfig-provider-envvar.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig-provider-envvar)
 
-[![NPM](https://nodei.co/npm/idoconfig-provider-envvar.png?downloads=true&downloadRank=true)](https://nodei.co/npm/idoconfig-provider-envvar/)
+[![Version npm](https://img.shields.io/npm/v/@idoconfig/provider-envvar.svg)](https://www.npmjs.com/package/@idoconfig/provider-envvar)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Build/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Tests/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![npm Downloads](https://img.shields.io/npm/dm/@idoconfig/provider-envvar.svg)](https://npmcharts.com/compare/@idoconfig/provider-envvar?minimal=true)
+
+[![NPM](https://nodeico.herokuapp.com/@idoconfig/provider-envvar.svg)](https://www.npmjs.com/package/@idoconfig/provider-envvar)
 
 
 ---

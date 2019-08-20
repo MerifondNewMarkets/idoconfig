@@ -2,13 +2,12 @@
 
 *tl;dr* Provide app configuration as key-value pairs from different providers. Inspired by ASP.net Core IConfiguration
 
-[![Version npm](https://img.shields.io/npm/v/idoconfig.svg?style=flat-square)](https://www.npmjs.com/package/idoconfig)
-[![npm Downloads](https://img.shields.io/npm/dm/idoconfig.svg?style=flat-square)](https://npmcharts.com/compare/idoconfig?minimal=true)
-[![Build Status](https://img.shields.io/travis/MerifondNewMarkets/idoconfig/master.svg?style=flat-square)](https://travis-ci.org/MerifondNewMarkets/idoconfig)
-[![Dependencies](https://img.shields.io/david/MerifondNewMarkets/idoconfig.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig)
-[![Dev-Dependencies](https://img.shields.io/david/dev/MerifondNewMarkets/idoconfig.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig)
+[![Version npm](https://img.shields.io/npm/v/@idoconfig/base.svg?style=flat-square)](https://www.npmjs.com/package/@idoconfig/base)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Build/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Tests/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![npm Downloads](https://img.shields.io/npm/dm/@idoconfig/base.svg?style=flat-square)](https://npmcharts.com/compare/@idoconfig/base?minimal=true)
 
-[![NPM](https://nodei.co/npm/idoconfig.png?downloads=true&downloadRank=true)](https://nodei.co/npm/idoconfig/)
+[![NPM](https://nodeico.herokuapp.com/@idoconfig/base.svg)](https://www.npmjs.com/package/@idoconfig/base)
 
 ---
 

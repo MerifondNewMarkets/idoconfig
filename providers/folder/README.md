@@ -2,15 +2,12 @@
 
 Read values from files within a folder and make them accessible through [`Configuration`](https://github.com/MerifondNewMarkets/idoconfig)
 
-[![Version npm](https://img.shields.io/npm/v/idoconfig-provider-folder.svg?style=flat-square)](https://www.npmjs.com/package/idoconfig-provider-folder)
-[![npm Downloads](https://img.shields.io/npm/dm/idoconfig-provider-folder.svg?style=flat-square)](https://npmcharts.com/compare/idoconfig-provider-folder?minimal=true)
-![Build Status](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/MerifondNewMarkets/idoconfig-provider-folder?style=flat-square)
-[![Dependencies](https://img.shields.io/david/MerifondNewMarkets/idoconfig-provider-folder.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig-provider-folder)
-[![Dev-Dependencies](https://img.shields.io/david/dev/MerifondNewMarkets/idoconfig-provider-folder.svg?style=flat-square)](https://david-dm.org/MerifondNewMarkets/idoconfig-provider-folder)
+[![Version npm](https://img.shields.io/npm/v/@idoconfig/provider-folder.svg)](https://www.npmjs.com/package/@idoconfig/provider-folder)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Build/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Tests/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
+[![npm Downloads](https://img.shields.io/npm/dm/@idoconfig/provider-folder.svg)](https://npmcharts.com/compare/@idoconfig/provider-folder?minimal=true)
 
-[![NPM](https://nodei.co/npm/idoconfig-provider-folder.png?downloads=true&downloadRank=true)](https://nodei.co/npm/idoconfig-provider-folder/)
-
-<!--[![Build Status](https://img.shields.io/travis/MerifondNewMarkets/idoconfig-provider-folder/master.svg?style=flat-square)](https://travis-ci.org/MerifondNewMarkets/idoconfig-provider-folder)-->
+[![NPM](https://nodeico.herokuapp.com/@idoconfig/provider-folder.svg)](https://www.npmjs.com/package/@idoconfig/provider-folder)
 
 ---
 
