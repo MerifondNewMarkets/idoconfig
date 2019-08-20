@@ -1,6 +1,6 @@
 {
   "name": "@idoconfig/provider-envvar",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Provider for idoconfig that reads values from environment variables.",
   "publishConfig": {
     "access": "public"
@@ -34,7 +34,7 @@
   "author": "Volker Thiel <volker.thiel@merifond-new-markets.de>",
   "license": "MIT",
   "dependencies": {
-    "@idoconfig/base": "^1.3.3",
+    "@idoconfig/base": "^1.3.4",
     "dotenv": "^6.2.0"
   },
   "gitHead": "51df7fbd934e6a97ca5d643a4876d52e098361f5"
