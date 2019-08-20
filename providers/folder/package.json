@@ -2,6 +2,9 @@
   "name": "@idoconfig/provider-folder",
   "version": "1.3.3",
   "description": "Provider for idoconfig that reads values from files within a folder Useful for Docker Secrets.",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Volker Thiel <volker.thiel@merifond-new-markets.de>",
   "license": "MIT",
   "repository": {
