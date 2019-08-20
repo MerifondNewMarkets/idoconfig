@@ -6,7 +6,8 @@
     "clean": "lerna run clean",
     "build": "lerna run build",
     "pub": "lerna publish",
-    "publish": "lerna version --conventional-commits && lerna publish from-package --conventional-commits"
+    "publish": "lerna version --conventional-commits && lerna publish from-package --conventional-commits",
+    "test": "lerna run test"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
