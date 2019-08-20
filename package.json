@@ -5,7 +5,8 @@
     "bootstrap": "lerna bootstrap --hoist",
     "clean": "lerna run clean",
     "build": "lerna run build",
-    "pub": "lerna publish"
+    "pub": "lerna publish",
+    "publish-from-package": "lerna version --conventional-commits && lerna publish from-package --conventional-commits"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
