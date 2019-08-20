@@ -13,5 +13,5 @@ jobs:
       with:
         node-version: '10.x'
     - run: npm install
-    - run: npm bootstrap
-    - run: npm test
+    - run: npm run bootstrap
+    - run: npm run test
