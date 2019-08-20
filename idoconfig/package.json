@@ -10,6 +10,7 @@
     "compile": "tsc -p tsconfig.build.json",
     "lint": "eslint --ext ts src/ test/",
     "prepare": "npm run build",
+    "prepublishOnly": "npm run build",
     "test": "mocha --require ts-node/register --reporter spec test/**/*.test.ts"
   },
   "keywords": [
