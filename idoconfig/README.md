@@ -2,10 +2,10 @@
 
 *tl;dr* Provide app configuration as key-value pairs from different providers. Inspired by ASP.net Core IConfiguration
 
-[![Version npm](https://img.shields.io/npm/v/@idoconfig/base.svg?style=flat-square)](https://www.npmjs.com/package/@idoconfig/base)
+[![Version npm](https://img.shields.io/npm/v/@idoconfig/base.svg)](https://www.npmjs.com/package/@idoconfig/base)
 [![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Build/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
 [![Actions Status](https://github.com/MerifondNewMarkets/idoconfig/workflows/Tests/badge.svg)](https://github.com/MerifondNewMarkets/idoconfig/actions)
-[![npm Downloads](https://img.shields.io/npm/dm/@idoconfig/base.svg?style=flat-square)](https://npmcharts.com/compare/@idoconfig/base?minimal=true)
+[![npm Downloads](https://img.shields.io/npm/dm/@idoconfig/base.svg)](https://npmcharts.com/compare/@idoconfig/base?minimal=true)
 
 [![NPM](https://nodeico.herokuapp.com/@idoconfig/base.svg)](https://www.npmjs.com/package/@idoconfig/base)
 
